@@ -1,0 +1,20 @@
+[0.416s] Invoking command in '/home/rishith/mrt_ws_new/build/rishith_assn_2': PYTHONPATH=/home/rishith/mrt_ws_new/build/rishith_assn_2/prefix_override:/home/rishith/mrt_ws_new/install/rishith_assn_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rishith/mrt_ws_new/build/rishith_assn_2/build --no-deps install_data
+[0.570s] running develop
+[0.653s] running egg_info
+[0.653s] writing rishith_assn_2.egg-info/PKG-INFO
+[0.653s] writing dependency_links to rishith_assn_2.egg-info/dependency_links.txt
+[0.653s] writing entry points to rishith_assn_2.egg-info/entry_points.txt
+[0.653s] writing requirements to rishith_assn_2.egg-info/requires.txt
+[0.653s] writing top-level names to rishith_assn_2.egg-info/top_level.txt
+[0.654s] reading manifest file 'rishith_assn_2.egg-info/SOURCES.txt'
+[0.655s] writing manifest file 'rishith_assn_2.egg-info/SOURCES.txt'
+[0.656s] running build_ext
+[0.656s] Creating /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/python3.10/site-packages/rishith-assn-2.egg-link (link to .)
+[0.656s] Installing d_rover1 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.656s] Installing d_rover2 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.657s] Installing d_rover3 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.657s] Installing d_rover4 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.657s] 
+[0.657s] Installed /home/rishith/mrt_ws_new/build/rishith_assn_2
+[0.657s] running install_data
+[0.674s] Invoked command in '/home/rishith/mrt_ws_new/build/rishith_assn_2' returned '0': PYTHONPATH=/home/rishith/mrt_ws_new/build/rishith_assn_2/prefix_override:/home/rishith/mrt_ws_new/install/rishith_assn_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rishith/mrt_ws_new/build/rishith_assn_2/build --no-deps install_data

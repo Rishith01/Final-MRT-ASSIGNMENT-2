@@ -1,0 +1,21 @@
+[0.412s] Invoking command in '/home/rishith/mrt_ws_new/build/rishith_assn_2': PYTHONPATH=/home/rishith/mrt_ws_new/build/rishith_assn_2/prefix_override:/home/rishith/mrt_ws_new/install/rishith_assn_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rishith/mrt_ws_new/build/rishith_assn_2/build --no-deps install_data
+[0.585s] running develop
+[0.665s] running egg_info
+[0.665s] writing rishith_assn_2.egg-info/PKG-INFO
+[0.666s] writing dependency_links to rishith_assn_2.egg-info/dependency_links.txt
+[0.666s] writing entry points to rishith_assn_2.egg-info/entry_points.txt
+[0.666s] writing requirements to rishith_assn_2.egg-info/requires.txt
+[0.666s] writing top-level names to rishith_assn_2.egg-info/top_level.txt
+[0.667s] reading manifest file 'rishith_assn_2.egg-info/SOURCES.txt'
+[0.667s] writing manifest file 'rishith_assn_2.egg-info/SOURCES.txt'
+[0.668s] running build_ext
+[0.668s] Creating /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/python3.10/site-packages/rishith-assn-2.egg-link (link to .)
+[0.669s] Installing basestation script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.669s] Installing d_rover1 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.669s] Installing d_rover2 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.669s] Installing d_rover3 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.670s] Installing d_rover4 script to /home/rishith/mrt_ws_new/install/rishith_assn_2/lib/rishith_assn_2
+[0.670s] 
+[0.670s] Installed /home/rishith/mrt_ws_new/build/rishith_assn_2
+[0.670s] running install_data
+[0.686s] Invoked command in '/home/rishith/mrt_ws_new/build/rishith_assn_2' returned '0': PYTHONPATH=/home/rishith/mrt_ws_new/build/rishith_assn_2/prefix_override:/home/rishith/mrt_ws_new/install/rishith_assn_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rishith/mrt_ws_new/build/rishith_assn_2/build --no-deps install_data
